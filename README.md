@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shabeeb Ali, an independent fullstack developer from beautiful state of Kerala, India.
 - 👀 I’m interested in PHP, VueJs, Javascript, HTML/CSS
-- 🌱 I’m currently learning Machine Learning as well as Flutter
-- 📫 Reach me on shabeeboali@gmail.com
+- 📫 Reach me on hello@shabeeb.dev
 
 <!---
 shabeebali/shabeebali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
